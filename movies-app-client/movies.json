@@ -1,0 +1,308 @@
+[
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "director": {
+      "name": "Peter Jackson",
+      "id": "123141"
+    },
+    "year": "2001",
+    "description": "First movie of the triology. Fantastic.",
+    "cast": [
+      {
+        "name": "Sean Astin",
+        "id": "329842"
+      },
+      {
+        "name": "Cate Blanchett",
+        "id": "93483"
+      },
+      {
+        "name": "Orlando Bloom",
+        "id": "29299"
+      },
+      {
+        "name": "Christopher Lee",
+        "id": "1111"
+      },
+      {
+        "name": "Ian McKellen",
+        "id": "2222"
+      },
+      {
+        "name": "Viggo Mortenson",
+        "id": "3333"
+      },
+      {
+        "name": "Liv Tyler",
+        "id": "4444"
+      },
+      {
+        "name": "Hugo Weaving",
+        "id": "5555"
+      },
+      {
+        "name": "Elijah Wood",
+        "id": "6666"
+      }
+    ],
+    "comments": [
+      {
+        "id": "12312323213",
+        "username": "capreaee",
+        "content": "Allons-y",
+        "time": "2020-09-28T13:38:15.347Z",
+        "point": "10"
+      }
+    ],
+    "id": 1,
+    "image_path": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SY999_CR0,0,673,999_AL_.jpg"
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "director": {
+      "name": "Peter Jackson",
+      "id": "123141"
+    },
+    "year": "2002",
+    "description": "Second movie of the triology. Fantastic.",
+    "cast": [
+      {
+        "name": "Sean Astin",
+        "id": "329842"
+      },
+      {
+        "name": "Cate Blanchett",
+        "id": "93483"
+      },
+      {
+        "name": "Orlando Bloom",
+        "id": "29299"
+      },
+      {
+        "name": "Christopher Lee",
+        "id": "1111"
+      },
+      {
+        "name": "Ian McKellen",
+        "id": "2222"
+      },
+      {
+        "name": "Viggo Mortenson",
+        "id": "3333"
+      },
+      {
+        "name": "Liv Tyler",
+        "id": "4444"
+      },
+      {
+        "name": "Hugo Weaving",
+        "id": "5555"
+      },
+      {
+        "name": "Elijah Wood",
+        "id": "6666"
+      }
+    ],
+    "id": 2,
+    "image_path": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,642,1000_AL_.jpg"
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "director": {
+      "name": "Peter Jackson",
+      "id": "123141"
+    },
+    "description": "Third movie of the triology. Fantastic.",
+    "year": "2003",
+    "cast": [
+      {
+        "name": "Sean Astin",
+        "id": "329842"
+      },
+      {
+        "name": "Cate Blanchett",
+        "id": "93483"
+      },
+      {
+        "name": "Orlando Bloom",
+        "id": "29299"
+      },
+      {
+        "name": "Christopher Lee",
+        "id": "1111"
+      },
+      {
+        "name": "Ian McKellen",
+        "id": "2222"
+      },
+      {
+        "name": "Viggo Mortenson",
+        "id": "3333"
+      },
+      {
+        "name": "Liv Tyler",
+        "id": "4444"
+      },
+      {
+        "name": "Hugo Weaving",
+        "id": "5555"
+      },
+      {
+        "name": "Elijah Wood",
+        "id": "6666"
+      }
+    ],
+    "id": 3,
+    "image_path": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
+  },
+  {
+    "name": "Star Wars",
+    "director": {
+      "name": "George Lucas",
+      "id": "9876"
+    },
+    "year": "1977",
+    "description": "First movie of the SW. Fantastic.",
+    "cast": [
+      {
+        "name": "Mark Hamill",
+        "id": "121212"
+      },
+      {
+        "name": "Harrison Ford",
+        "id": "232323"
+      },
+      {
+        "name": "Carrie Fisher",
+        "id": "343434"
+      }
+    ],
+    "id": 4,
+    "image_path": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,643,1000_AL_.jpg"
+  },
+  {
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "director": {
+      "name": "George Lucas",
+      "id": "9876"
+    },
+    "year": "1980",
+    "description": "Second movie of the SW. Fantastic.",
+    "cast": [
+      {
+        "name": "Mark Hamill",
+        "id": "121212"
+      },
+      {
+        "name": "Harrison Ford",
+        "id": "232323"
+      },
+      {
+        "name": "Carrie Fisher",
+        "id": "343434"
+      }
+    ],
+    "id": 5,
+    "image_path": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,641,1000_AL_.jpg"
+  },
+  {
+    "name": "Star Wars: Episode VI - Return of the Jedi",
+    "director": {
+      "name": "George Lucas",
+      "id": "9876"
+    },
+    "year": "1983",
+    "description": "Third movie of the SW. Fantastic.",
+    "cast": [
+      {
+        "name": "Mark Hamill",
+        "id": "121212"
+      },
+      {
+        "name": "Harrison Ford",
+        "id": "232323"
+      },
+      {
+        "name": "Carrie Fisher",
+        "id": "343434"
+      }
+    ],
+    "id": 6,
+    "image_path": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY999_CR0,0,644,999_AL_.jpg"
+  },
+  {
+    "name": "Star Wars: Episode I - The Phantom Menace",
+    "director": {
+      "name": "George Lucas",
+      "id": "9876"
+    },
+    "year": "1999",
+    "description": "Fourth movie of the SW. Fantastic.",
+    "cast": [
+      {
+        "name": "Ewan McGregor",
+        "id": "898989"
+      },
+      {
+        "name": "Natalie Portman",
+        "id": "564567"
+      },
+      {
+        "name": "Ian McDiarmid",
+        "id": "854854"
+      }
+    ],
+    "id": 7,
+    "image_path": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY999_SX666_AL_.jpg"
+  },
+  {
+    "name": "Star Wars: Episode II - Attack of the Clones",
+    "director": {
+      "name": "George Lucas",
+      "id": "9876"
+    },
+    "year": "2002",
+    "description": "Fifth movie of the SW. Fantastic.",
+    "cast": [
+      {
+        "name": "Ewan McGregor",
+        "id": "898989"
+      },
+      {
+        "name": "Natalie Portman",
+        "id": "564567"
+      },
+      {
+        "name": "Ian McDiarmid",
+        "id": "854854"
+      }
+    ],
+    "id": 8,
+    "image_path": "https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY999_CR0,0,659,999_AL_.jpg"
+  },
+  {
+    "name": "Star Wars: Episode III - Revenge of the Sith",
+    "director": {
+      "name": "George Lucas",
+      "id": "9876"
+    },
+    "year": "2005",
+    "description": "Sixth movie of the SW. Fantastic.",
+    "cast": [
+      {
+        "name": "Ewan McGregor",
+        "id": "898989"
+      },
+      {
+        "name": "Natalie Portman",
+        "id": "564567"
+      },
+      {
+        "name": "Ian McDiarmid",
+        "id": "854854"
+      }
+    ],
+    "id": 9,
+    "image_path": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SY1000_SX750_AL_.jpg"
+  }
+]
